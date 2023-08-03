@@ -1,0 +1,99 @@
+Match_id,Team,Home_Away,Outcome,Goals,Opponent,Team_penalties,Penalties_outcome,Team_points,Match_Stadium
+1,Cruz Azul,Home,L,1,Miami,0,NA,0,DRV PNK Stadium
+1,Miami,Away,W,2,Cruz Azul,0,NA,3,DRV PNK Stadium
+2,Orlando,Home,T,1,Houston,5,W,2,Exploria Stadium
+2,Houston,Away,T,1,Orlando,4 ,L,1,Exploria Stadium
+3,Austin,Home,L,1,Mazatlán,0,NA,0,Q2 Stadium
+3,Mazatlán,Away,W,3,Austin,0,NA,3,Q2 Stadium
+4,Dallas,Home,T,2,Charlotte,1 ,L,1,Toyota Stadium
+4,Charlotte,Away,T,2,Dallas,4,W,2,Toyota Stadium
+5,León,Home,T,2,Vancouver,16,W,2,BC Place
+5,Vancouver,Away,T,2,León,15,L,1,BC Place
+6,Montréal,Home,T,2,Pumas,4,W,2,Stade Saputo
+6,Pumas,Away,T,2,Montréal,2 ,L,1,Stade Saputo
+7,New York,Home,T,0,New England,4,W,2,Red Bull Arena
+7,New England,Away,T,0,New York,2 ,L,1,Red Bull Arena
+8,Philadelphia,Home,W,3,Tijuana,0,NA,3,Subaru Park
+8,Tijuana,Away,T,1,Philadelphia,0,NA,0,Subaru Park
+9,Salt Lake,Home,W,3,Seattle,0,NA,3,America First Field
+9,Seattle,Away,T,0,Salt Lake,0,NA,0,America First Field
+10,Portland,Home,W,2,San Jose,0,NA,3,Providence Park
+10,San Jose,Away,T,0,Portland,0,NA,0,Providence Park
+11,New York City,Home,L,0,Atlas,0,NA,0,Citi Field
+11,Atlas,Away,W,1,New York City,0,NA,3,Citi Field
+12,Cincinnati,Home,T,3,Kansas City,4,W,2,TQL Stadium
+12,Kansas City,Away,T,3,Cincinnati,2 ,L,1,TQL Stadium
+13,Nashville,Home,W,2,Colorado,0,NA,3,GEODIS Park
+13,Colorado,Away,T,1,Nashville,0,NA,0,GEODIS Park
+14,Puebla,Home,L,0,Minnesota,0,NA,0,Allianz Field
+14,Minnesota,Away,W,4,Puebla,0,NA,3,Allianz Field
+15,Columbus,Home,W,2,St. Louis,0,NA,3,Lower.com Field
+15,St. Louis,Away,W,1,Columbus,0,NA,0,Lower.com Field
+16,Miami,Home,W,4,Atlanta,0,NA,3,DRV PNK Stadium
+16,Atlanta,Away,W,0,Miami,0,NA,0,DRV PNK Stadium
+17,Santos Laguna,Home,T,2,Houston,4 ,L,1,Shell Energy Stadium
+17,Houston,Away,T,2,Santos Laguna,5,W,2,Shell Energy Stadium
+18,Dallas,Home,W,3,Necaxa,0,NA,3,Toyota Stadium
+18,Necaxa,Away,T,0,Dallas,0,NA,0,Toyota Stadium
+19,Mazatlán,Home,T,1,Juárez,4,W,2,Q2 Stadium
+19,Juárez,Away,T,1,Mazatlán,2 ,L,1,Q2 Stadium
+20,Montréal,Home,L,0,D.C.,0,NA,0,Stade Saputo
+20,D.C.,Away,W,1,Montréal,0,NA,3,Stade Saputo
+21,New York City,Home,W,5,Toronto,0,NA,3,Red Bull Arena
+21,Toronto,Away,W,0,New York City,0,NA,0,Red Bull Arena
+22,Philadelphia,Home,W,5,Queretaro,0,NA,3,Subaru Park
+22,Queretaro,Away,W,1,Philadelphia,0,NA,0,Subaru Park
+23,San Luis,Home,L,1,New England,0,NA,0,Gillette Stadium
+23,New England,Away,W,5,San Luis,0,NA,3,Gillette Stadium
+24,Monterrey,Home,W,3,Salt Lake,0,NA,3,America First Field
+24,Salt Lake,Away,W,0,Monterrey,0,NA,0,America First Field
+25,LA,Home,L,0,León,0,NA,0,Dignity Health Sports Park
+25,León,Away,W,1,LA,0,NA,3,Dignity Health Sports Park
+26,Tigres,Home,W,2,Portland,0,NA,3,Providence Park
+26,Portland,Away,W,1,Tigres,0,NA,0,Providence Park
+27,Minnesota,Home,L,2,Chicago,0,NA,0,Allianz Field
+27,Chicago,Away,W,3,Minnesota,0,NA,3,Allianz Field
+28,Nashville,Home,L,3,Toluca,0,NA,0,GEODIS Park
+28,Toluca,Away,W,4,Nashville,0,NA,3,GEODIS Park
+29,América,Home,W,4,St. Louis,0,NA,3,CITYPARK
+29,St. Louis,Away,W,0,América,0,NA,0,CITYPARK
+30,Chivas,Home,L,1,Cincinnati,0,NA,0,TQL Stadium
+30,Cincinnati,Away,W,3,Chivas,0,NA,3,TQL Stadium
+31,Cruz Azul,Home,T,1,Atlanta,5,W,2,Mercedes-Benz Stadium
+31,Atlanta,Away,T,1,Cruz Azul,4 ,L,1,Mercedes-Benz Stadium
+32,Necaxa,Home,L,1,Charlotte,0,NA,0,Bank of America Stadium
+32,Charlotte,Away,W,4,Necaxa,0,NA,3,Bank of America Stadium
+33,Santos Laguna,Home,L,2,Orlando,0,NA,0,Exploria Stadium
+33,Orlando,Away,W,3,Santos Laguna,0,NA,3,Exploria Stadium
+34,Austin,Home,L,1,Juárez,0,NA,0,Q2 Stadium
+34,Juárez,Away,W,3,Austin,0,NA,3,Q2 Stadium
+35,Pumas,Home,W,3,D.C.,0,NA,3,Audi Field
+35,D.C.,Away,W,0,Pumas,0,NA,0,Audi Field
+36,Atlas,Home,W,1,Toronto,0,NA,3,BMO Field
+36,Toronto,Away,W,0,Atlas,0,NA,0,BMO Field
+37,New York,Home,W,2,San Luis,0,NA,3,Red Bull Arena
+37,San Luis,Away,W,1,New York,0,NA,0,Red Bull Arena
+38,Tijuana,Home,L,0,Queretaro,0,NA,0,Subaru Park
+38,Queretaro,Away,W,1,Tijuana,0,NA,3,Subaru Park
+39,LA,Home,L,1,Vancouver,0,NA,0,Dignity Health Sports Park
+39,Vancouver,Away,W,2,LA,0,NA,3,Dignity Health Sports Park
+40,Monterrey,Home,W,4,Seattle,0,NA,3,Lumen Field
+40,Seattle,Away,W,2,Monterrey,0,NA,0,Lumen Field
+41,Tigres,Home,W,1,San Jose,0,NA,3,PayPal Park
+41,San Jose,Away,W,0,Tigres,0,NA,0,PayPal Park
+42,América,Home,L,1,Columbus,0,NA,0,Lower.com Field
+42,Columbus,Away,W,4,América,0,NA,3,Lower.com Field
+43,Puebla,Home,T,1,Chicago,9 ,W,2,SeatGeek Stadium
+43,Chicago,Away,T,1,Puebla,10,L,1,SeatGeek Stadium
+44,Chivas,Home,L,0,Kansas City,0,NA,0,Children's Mercy Park
+44,Kansas City,Away,W,1,Chivas,0,NA,3,Children's Mercy Park
+45,Toluca,Home,W,4,Colorado,0,NA,3,Dick's Sporting Goods Park
+45,Colorado,Away,W,1,Toluca,0,NA,0,Dick's Sporting Goods Park
+46,Mazatlán,Home,L,1,Dallas,0,NA,0,Toyota Stadium
+46,Dallas,Away,W,2,Mazatlán,0,NA,3,Toyota Stadium
+47,Pachuca,Home,T,0,Houston,3 ,L,1,Shell Energy Stadium
+47,Houston,Away,T,0,Pachuca,5,W,2,Shell Energy Stadium
+48,Miami,Home,W,3,Orlando,0,NA,3,DRV PNK Stadium
+48,Orlando,Away,T,1,Miami,0,NA,0,DRV PNK Stadium
+49,LAFC,Home,W,7,Juárez,0,NA,3,BMO Stadium
+49,Juárez,Away,T,1,LAFC,0,NA,0,BMO Stadium
