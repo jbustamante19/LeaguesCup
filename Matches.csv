@@ -1,50 +1,78 @@
-Match_ID,Home_Team,Away_Team,Round
-1,Cruz Azul,Miami,Qualifying
-2,Orlando,Houston,Qualifying
-3,Austin,Mazatlán,Qualifying
-4,Dallas,Charlotte,Qualifying
-5,León,Vancouver,Qualifying
-6,Montréal,Pumas,Qualifying
-7,New York,New England,Qualifying
-8,Philadelphia,Tijuana,Qualifying
-9,Salt Lake,Seattle,Qualifying
-10,Portland,San Jose,Qualifying
-11,New York City,Atlas,Qualifying
-12,Cincinnati,Kansas City,Qualifying
-13,Nashville,Colorado,Qualifying
-14,Puebla,Minnesota,Qualifying
-15,Columbus,St. Louis,Qualifying
-16,Miami,Atlanta,Qualifying
-17,Santos Laguna,Houston,Qualifying
-18,Dallas,Necaxa,Qualifying
-19,Mazatlán,Juárez,Qualifying
-20,Montréal,D.C.,Qualifying
-21,New York City,Toronto,Qualifying
-22,Philadelphia,Queretaro,Qualifying
-23,San Luis,New England,Qualifying
-24,Monterrey,Salt Lake,Qualifying
-25,LA,León,Qualifying
-26,Tigres,Portland,Qualifying
-27,Minnesota,Chicago,Qualifying
-28,Nashville,Toluca,Qualifying
-29,América,St. Louis,Qualifying
-30,Chivas,Cincinnati,Qualifying
-31,Cruz Azul,Atlanta,Qualifying
-32,Necaxa,Charlotte,Qualifying
-33,Santos Laguna,Orlando,Qualifying
-34,Austin,Juárez,Qualifying
-35,Pumas,D.C.,Qualifying
-36,Atlas,Toronto,Qualifying
-37,New York,San Luis,Qualifying
-38,Tijuana,Queretaro,Qualifying
-39,LA,Vancouver,Qualifying
-40,Monterrey,Seattle,Qualifying
-41,Tigres,San Jose,Qualifying
-42,América,Columbus,Qualifying
-43,Puebla,Chicago,Qualifying
-44,Chivas,Kansas City,Qualifying
-45,Toluca,Colorado,Qualifying
-46,Mazatlán,Dallas,Round of 32
-47,Pachuca,Houston,Round of 32
-48,Miami,Orlando,Round of 32
-49,LAFC,Juárez,Round of 32
+Match_ID,Home_Team,Away_Team,Round,League_vs_League
+1,Cruz Azul,Miami,Qualifying,League vs League
+2,Orlando,Houston,Qualifying,No Rivalry
+3,Austin,Mazatlán,Qualifying,League vs League
+4,Dallas,Charlotte,Qualifying,No Rivalry
+5,León,Vancouver,Qualifying,League vs League
+6,Montréal,Pumas,Qualifying,League vs League
+7,New York,New England,Qualifying,No Rivalry
+8,Philadelphia,Tijuana,Qualifying,League vs League
+9,Salt Lake,Seattle,Qualifying,No Rivalry
+10,Portland,San Jose,Qualifying,No Rivalry
+11,New York City,Atlas,Qualifying,League vs League
+12,Cincinnati,Kansas City,Qualifying,No Rivalry
+13,Nashville,Colorado,Qualifying,No Rivalry
+14,Puebla,Minnesota,Qualifying,League vs League
+15,Columbus,St. Louis,Qualifying,No Rivalry
+16,Miami,Atlanta,Qualifying,No Rivalry
+17,Santos Laguna,Houston,Qualifying,League vs League
+18,Dallas,Necaxa,Qualifying,League vs League
+19,Mazatlán,Juárez,Qualifying,No Rivalry
+20,Montréal,D.C.,Qualifying,No Rivalry
+21,New York City,Toronto,Qualifying,No Rivalry
+22,Philadelphia,Queretaro,Qualifying,League vs League
+23,San Luis,New England,Qualifying,League vs League
+24,Monterrey,Salt Lake,Qualifying,League vs League
+25,LA,León,Qualifying,League vs League
+26,Tigres,Portland,Qualifying,League vs League
+27,Minnesota,Chicago,Qualifying,No Rivalry
+28,Nashville,Toluca,Qualifying,League vs League
+29,América,St. Louis,Qualifying,League vs League
+30,Chivas,Cincinnati,Qualifying,League vs League
+31,Cruz Azul,Atlanta,Qualifying,League vs League
+32,Necaxa,Charlotte,Qualifying,League vs League
+33,Santos Laguna,Orlando,Qualifying,League vs League
+34,Austin,Juárez,Qualifying,League vs League
+35,Pumas,D.C.,Qualifying,League vs League
+36,Atlas,Toronto,Qualifying,League vs League
+37,New York,San Luis,Qualifying,League vs League
+38,Tijuana,Queretaro,Qualifying,No Rivalry
+39,LA,Vancouver,Qualifying,No Rivalry
+40,Monterrey,Seattle,Qualifying,League vs League
+41,Tigres,San Jose,Qualifying,League vs League
+42,América,Columbus,Qualifying,League vs League
+43,Puebla,Chicago,Qualifying,League vs League
+44,Chivas,Kansas City,Qualifying,League vs League
+45,Toluca,Colorado,Qualifying,League vs League
+46,Mazatlán,Dallas,Round of 32,League vs League
+47,Pachuca,Houston,Round of 32,League vs League
+48,Miami,Orlando,Round of 32,No Rivalry
+49,LAFC,Juárez,Round of 32,League vs League
+50,Atlas,New England,Round of 32,League vs League
+51,New York,New York City,Round of 32,No Rivalry
+52,Philadelphia,D.C.,Round of 32,No Rivalry
+53,Pumas,Queretaro,Round of 32,No Rivalry
+54,Charlotte,Cruz Azul,Round of 32,League vs League
+55,Chicago,América,Round of 32,League vs League
+56,Cincinnati,Nashville,Round of 32,No Rivalry
+57,Columbus,Minnesota,Round of 32,No Rivalry
+58,León,Salt Lake,Round of 32,League vs League
+59,Toluca,Kansas City,Round of 32,League vs League
+60,Monterrey,Portland,Round of 32,League vs League
+61,Tigres,Vancouver,Round of 32,League vs League
+62,Dallas,Miami,Round of 32,No Rivalry
+63,Queretaro,New England,Round of 32,League vs League
+64,Charlotte,Houston,Round of 32,No Rivalry
+65,América,Nashville,Round of 32,League vs League
+66,Philadelphia,New York,Round of 32,No Rivalry
+67,Toluca,Minnesota,Round of 32,League vs League
+68,Tigres,Monterrey,Round of 32,No Rivalry
+69,LAFC,Salt Lake,Round of 32,No Rivalry
+70,Miami,Charlotte,Round of 32,No Rivalry
+71,Nashville,Minnesota,Round of 32,No Rivalry
+72,Philadelphia,Queretaro,Round of 32,League vs League
+73,LAFC,Monterrey,Round of 32,League vs League
+74,Philadelphia,Miami,Round of 32,No Rivalry
+75,Monterrey,Nashville,Round of 32,League vs League
+76,Philadelphia,Monterrey,Round of 32,League vs League
+77,Nashville,Miami,Round of 32,No Rivalry

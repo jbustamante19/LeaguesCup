@@ -1,48 +1,48 @@
-Team,League
-Cruz Azul,Liga MX
-Miami,MLS
-Orlando,MLS
-Houston,MLS
-Austin,MLS
-Mazatlán,Liga MX
-Dallas,MLS
-Charlotte,MLS
-León,Liga MX
-Vancouver,MLS
-Montréal,MLS
-Pumas,Liga MX
-New York,MLS
-New England,MLS
-Philadelphia,MLS
-Tijuana,Liga MX
-Salt Lake,MLS
-Seattle,MLS
-Portland,MLS
-San Jose,MLS
-New York City,MLS
-Atlas,Liga MX
-Cincinnati,MLS
-Kansas City,MLS
-Nashville,MLS
-Colorado,MLS
-Puebla,Liga MX
-Minnesota,MLS
-Columbus,MLS
-St. Louis,MLS
-Atlanta,MLS
-Santos Laguna,Liga MX
-Necaxa,Liga MX
-Juárez,Liga MX
-D.C.,MLS
-Toronto,MLS
-Queretaro,Liga MX
-San Luis,Liga MX
-Monterrey,Liga MX
-LA,MLS
-Tigres,Liga MX
-Chicago,MLS
-Toluca,Liga MX
-América,Liga MX
-Chivas,Liga MX
-Pachuca,Liga MX
-LAFC,MLS
+Team,Team_pic_urls,League
+Cruz Azul,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/liga-mx/Liga_MX_Logo-CAZ-480x480_yl8vcz.png",Liga MX
+Miami,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/mls/MIA_logo_Full_Color_480x480.png",MLS
+Orlando,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/mls/ORL_logo_Full_Color_480x480.png",MLS
+Houston,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/mls/HOU_logo_Full_Color_480x480.png",MLS
+Austin,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/mls/ATX_Club_logo_Full_Color_480x480.png",MLS
+Mazatlán,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/liga-mx/Liga_MX_Logo-MAZ-480x480_jjpj81.png",Liga MX
+Dallas,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/mls/DAL_logo_Full_Color_480x480.png",MLS
+Charlotte,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/mls/CLT_logo_Full_Color_480x480.png",MLS
+León,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/liga-mx/Liga_MX_Logo-LEO-480x480_uqylpo.png",Liga MX
+Vancouver,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/mls/VAN_logo_Full_Color_480x480.png",MLS
+Montréal,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/mls/MTL_logo_Full_Color_480x480.png",MLS
+Pumas,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/liga-mx/Liga_MX_Logo-UNAM-480x480_eqz88y.png",Liga MX
+New York,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/mls/RBNY_logo_Full_Color_480x480.png",MLS
+New England,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/mls/NE_logo_Full_Color_480x480.png",MLS
+Philadelphia,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/mls/PHI_logo_Full_Color_480x480.png",MLS
+Tijuana,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/liga-mx/Liga_MX_Logo-TIJ-480x480_bzdds9.png",Liga MX
+Salt Lake,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/mls/RSL_logo_Full_Color_480x480.png",MLS
+Seattle,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/mls/SEA_logo_Full_Color_480x480.png",MLS
+Portland,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/mls/POR_logo_Full_Color_480x480.png",MLS
+San Jose,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/mls/SJ_logo_Full_Color_480x480.png",MLS
+New York City,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/mls/NYC_logo_Full_Color_480x480.png",MLS
+Atlas,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/liga-mx/Liga_MX_Logo-ATL-Dark-480x480_echrk5.png",Liga MX
+Cincinnati,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/mls/CIN_logo_Full_Color_480x480.png",MLS
+Kansas City,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/mls/KC_logo_Full_Color_480x480.png",MLS
+Nashville,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/mls/NAS_logo_Full_Color_480x480.png",MLS
+Colorado,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/mls/COL_logo_Full_Color_480x480.png",MLS
+Puebla,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/liga-mx/Liga_MX_Logo-PUE-480x480_blgkam.png",Liga MX
+Minnesota,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/mls/MIN_logo_Full_Color_480x480.png",MLS
+Columbus,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/mls/CLB_logo_Full_Color_Black_480x480.png",MLS
+St. Louis,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/mls/STL_logo_Full_Color_480x480.png",MLS
+Atlanta,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/mls/ATL_Club_logo_Full_Color_480x480.png",MLS
+Santos Laguna,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/liga-mx/Liga_MX_Logo-SAN-480x480_lp3xqc.png",Liga MX
+Necaxa,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/liga-mx/Liga_MX_Logo-NEX-480x480_r6drrw.png",Liga MX
+Juárez,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/liga-mx/Liga_MX_Logo-FCJ-480x480_ocvco7.png",Liga MX
+D.C.,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/mls/DC_logo_Full_Color_480x480.png",MLS
+Toronto,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/mls/TOR_logo_Full_Color_480x480.png",MLS
+Queretaro,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/liga-mx/Liga_MX_Logo-QRO-480x480_jprftz.png",Liga MX
+San Luis,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/liga-mx/ASL_480_ymebbx.png",Liga MX
+Monterrey,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/liga-mx/MTY_Escudo_Rayados_estrellas_azules_waiv5t.png",Liga MX
+LA,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/mls/LA_logo_Full_Color_480x480.png",MLS
+Tigres,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/liga-mx/Liga_MX_Logo-TIG-480x480_hl2mpq.png",Liga MX
+Chicago,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/mls/CHI_logo_Full_Color_480x480.png",MLS
+Toluca,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/liga-mx/Liga_MX_Logo-TOL-480x480_zcoxzn.png",Liga MX
+América,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/liga-mx/Liga_MX_Logo-AME-480x480.png",Liga MX
+Chivas,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/liga-mx/Liga_MX_Logo-GDL-480x480_iueopo.png",Liga MX
+Pachuca,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/liga-mx/Liga_MX_Logo-PAC-480x480_pqnrkb.png",Liga MX
+LAFC,"https://images.mlssoccer.com/image/upload/w_700,h_700/assets/lc/logos/clubs/mls/LAFC_logo_Full_Color_480x480.png",MLS
